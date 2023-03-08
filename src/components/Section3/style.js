@@ -86,4 +86,4 @@ margin-top:38px;
    };
 `;
 
-export { Container, Wrapper, Part1, Part2, Image1, Image2, Image3, Ellipse };
+export { Container, Wrapper, Part1, Part2, Image1, Image2, Image3, Ellipse};
