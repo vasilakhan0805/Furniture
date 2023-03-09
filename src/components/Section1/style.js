@@ -34,6 +34,7 @@ const Button = styled.button`
 `;
 const Conatiner = styled.div`
   width: 100%;
+  background: #EFF2F1;
 `;
 
 const Wrapper = styled.div`

@@ -2,7 +2,8 @@ import styled from "styled-components";
 import { ReactComponent as ellipse } from "../../assets/icons/Ellipse67.svg";
 
 const Container = styled.div`
-  width: 1005;
+  width: 100%;
+  background: #EFF2F1;
 `;
 
 const Wrapper = styled.div`
@@ -86,4 +87,4 @@ margin-top:38px;
    };
 `;
 
-export { Container, Wrapper, Part1, Part2, Image1, Image2, Image3, Ellipse };
+export { Container, Wrapper, Part1, Part2, Image1, Image2, Image3, Ellipse};
