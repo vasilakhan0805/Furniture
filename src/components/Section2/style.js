@@ -6,6 +6,7 @@ import { ReactComponent as returnBack } from "../../assets/icons/Return.svg";
 
 const Container = styled.div`
   width: 100%;
+  background: #EFF2F1;
 `;
 
 const Wrapper = styled.div`

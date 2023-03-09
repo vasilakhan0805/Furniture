@@ -2,6 +2,7 @@ import styled from "styled-components";
 
 const Container = styled.div`
 width: 100%;
+background: #EFF2F1;
 `;
 
 const Wrapper = styled.div`
@@ -9,7 +10,8 @@ const Wrapper = styled.div`
   justify-content: space-between;
   max-width: 1500px;
   width: 100%;
-  padding: 164px 178px;
+  padding: 0px 178px;
+  padding-top:164px ;
   margin: auto;
 `
 
