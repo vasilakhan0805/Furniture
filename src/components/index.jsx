@@ -22,6 +22,7 @@ class Home extends Component{
                 <Carousel/>
                 <Section5/>
                 <Footer/>
+                <a href="https://github.com/vasilakhan0805/Furniture">source code</a>
             </div>
         )
     }
