@@ -135,13 +135,13 @@ const Linkedin = styled(linkedin)`
 const HrDiv = styled.div`
   width: 1140px;
   border: 1px solid #eff2f1;
-  margin-bottom: 36px;
+  margin-bottom: 30px;
 `;
 
 FooterWrapper.End = styled.div`
   display: flex;
   justify-content: space-between;
-  margin-bottom: 93px;
+  margin-bottom: 70px;
 `;
 
 FooterWrapper.End.Part1 = styled.div``;

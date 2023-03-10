@@ -11,7 +11,8 @@ const Wrapper = styled.div`
   /* justify-content: space-between; */
   max-width: 1500px;
   width: 100%;
-  padding: 187px 178px;
+  padding: 0px 178px;
+  padding-bottom: 187px;
   margin: auto;
   `;
 const Content = styled.div`
